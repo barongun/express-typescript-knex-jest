@@ -1,0 +1,16 @@
+{
+  "name": "express-typescript-knex-jest",
+  "version": "0.1.0",
+  "description": "express with typescript (knex + jest)",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "ts-node src/server.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.16.0",
+    "express": "^4.16.4"
+  }
+}
